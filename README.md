@@ -40,7 +40,7 @@
 - Je fais concorder le $id envoyé en POST avec les enregistrées en SESSION
 
 ---
-## Remerciement
+## Remerciements
 ---
 
 A tous les étudiants !
