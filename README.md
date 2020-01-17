@@ -16,7 +16,7 @@
 ## Table des matières
 
 - [Explication](#explication)
-- [Remerciements](#remerciements)
+- [Remerciement](#remerciement)
 
 ---
 ## Explication
